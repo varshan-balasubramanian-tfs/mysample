@@ -1,4 +1,2 @@
 # mysample
-Integration with Jenkins
-Adding some change here
-Line 
+New Line is entered here
